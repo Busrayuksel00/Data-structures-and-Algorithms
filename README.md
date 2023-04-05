@@ -1,2 +1,2 @@
 # Data-structures-and-Algorithms
- Patika.dev homework1    
+ Patika.dev  selection sort homework1    
