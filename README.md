@@ -1,2 +1,2 @@
 # Data-structures-and-Algorithms
- data structions homework1
+ Patika.dev homework1    
